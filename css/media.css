@@ -1,0 +1,115 @@
+@media screen and (min-width:200px) and (max-width:499px){
+    header {
+        padding: 20px 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+    .titulo {
+        font-size: 1em;
+    }
+    .sub-titulo {
+    font-size: 1rem;
+    }
+    .footer {
+        display: flex;
+        font-size: 14px;
+        font-weight: 900;
+    }
+    button {
+        margin: 1pc;
+        font-size: .8em;
+        font-weight: bold;
+    }
+}
+@media screen and (min-width:500px) and (max-width:766px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+    .titulo {
+        font-size: 1.5em;
+    }
+    .footer {
+        display: flex;
+        font-size: 14px;
+        font-weight: 900;
+    }
+    button {
+        margin: 1pc;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+}
+/*Para celular posicion vertical*/
+@media screen and (max-width:767px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+}
+/*Para celular posicion horizontal y para table posicion vertical*/
+@media screen and (min-width:768px) and (max-width:991px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+    .titulo{
+        font-size: calc(1.375rem + 1.5vw);
+    }
+    .sub-titulo {
+        font-size: 1.2rem;
+        line-height: 1.5em;
+    }
+    .footer{
+        font-size: 15px;
+        display: flex;
+    }
+    main {
+        margin: 6pc 0;
+    }
+    footer{
+        margin: 1.5pc;
+    }
+}
+/*Para table posicion horizontal y pantalla pequeña des escritorio*/
+@media screen and (min-width:992px) and (max-width:1199px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+}
+/*Para pantallas mas grandes de escritorio*/
+@media screen and (min-width:1200px){
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .body{
+        height: 100%;
+    }
+}
