@@ -12,7 +12,7 @@ Este es un código HTML simple para el sitio web de FirstBlood. FirstBlood es un
 1. Clona el repositorio:
 
     ```bash
-    git clone [URL_del_repositorio]
+    git clone https://github.com/DannyCrisostomo/potencia-tus-ventas.git
     ```
 
 2. Abre el archivo `index.html` en un navegador web para ver el sitio web.
