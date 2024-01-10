@@ -9,6 +9,7 @@ Puedes acceder a una vista previa en vivo del prototipo [aquí](https://polite-p
 
 ![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
 
+
 ### Estructura de Archivos
 
 - **css/style.css:** Hoja de estilo principal para dar estilo al sitio web.
