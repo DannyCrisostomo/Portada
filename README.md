@@ -1,7 +1,4 @@
-# Portada
-# README
-
-## Sitio Web FirstBlood
+## Sitio Web de Portada FirstBlood
 
 Este es un código HTML simple para el sitio web de FirstBlood. FirstBlood es una plataforma que enfatiza destacar y dominar habilidades. El código incluye una estructura básica, estilos y contenido.
 
