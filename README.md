@@ -2,6 +2,13 @@
 
 Este es un código HTML simple para el sitio web de FirstBlood. FirstBlood es una plataforma que enfatiza destacar y dominar habilidades. El código incluye una estructura básica, estilos y contenido.
 
+
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://polite-praline-75cd4b.netlify.app/).
+
+![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
+
 ### Estructura de Archivos
 
 - **css/style.css:** Hoja de estilo principal para dar estilo al sitio web.
@@ -35,5 +42,3 @@ Este es un código HTML simple para el sitio web de FirstBlood. FirstBlood es un
 
 ¡Feliz codificación! 🚀
 
-### Vista Previa
-![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
