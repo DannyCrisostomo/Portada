@@ -7,8 +7,8 @@ Este es un código HTML simple para el sitio web de FirstBlood. FirstBlood es un
 
 Puedes acceder a una vista previa en vivo del prototipo [aquí](https://polite-praline-75cd4b.netlify.app/).
 
-![php](![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
-))
+![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
+
 
 
 ### Estructura de Archivos
